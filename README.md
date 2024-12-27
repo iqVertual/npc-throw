@@ -1,4 +1,4 @@
-# npc-throw
+# npc-throw (FIVEM)
 you are able to pick NPCs up in Five-M and toss them around. This is not intended for server use, rather just having fun with friends.
 
 
